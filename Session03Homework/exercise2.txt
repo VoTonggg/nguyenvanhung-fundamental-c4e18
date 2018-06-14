@@ -1,0 +1,6 @@
+2a.
+A list within another list is said to be nested
+
+2b.
+Yes, a list can store both integers and strings.
+Elements in a list do not have to be the same type

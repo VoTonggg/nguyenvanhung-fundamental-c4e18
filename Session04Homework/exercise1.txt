@@ -1,0 +1,21 @@
+1. How are for loops and iterable objects related ?
+
+for loop sử dụng iteration protocol để truy cập tới từng phần tử trong một iterable object.
+
+2. How are for loops and list comprehensions related ?
+
+list comprehension cho phép tạo ra một list từ một dữ liệu có sẵn khác chỉ với một vòng lặp for
+for example: list = [x* 2 for x in range(10)]
+
+3. Name four iterator contexts in python language ?
+
+for loop, list comprehension, the in membership test expression, the map built-in function.
+
+4. What is the best way to read line by line from a text file today ?
+
+Open the file within an iteration context tool, such as a for loop or list comprehension 
+let the iteration tool automatically scan one line at a time by running the file's next handler on each iteration
+
+5. What sort of the weapons would you expect to see employed by the Spanish Inquisition?
+
+fear
